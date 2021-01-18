@@ -5,6 +5,7 @@ rencana konten wpu
   * framework javascript
     > vue
     > react
+    > angular
 - struktur data dasar
 - php framework
   > laravel
