@@ -3,7 +3,10 @@ rencana konten wpu
 - javasript
   * es6
   * framework javascript
+    > vue
+    > react
 - struktur data dasar
 - php framework
 - interview
 - vlogs
+- phyton
