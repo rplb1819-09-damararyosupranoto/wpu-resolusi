@@ -3,9 +3,11 @@ rencana konten wpu
 - javasript
   * es6
   * framework javascript
-  > angular
-  > react
+    > vue
+    > react
+- struktur data dasar
 - php framework
   > laravel
 - interview
 - vlogs
+- phyton
